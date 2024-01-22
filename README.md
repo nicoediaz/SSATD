@@ -1,4 +1,4 @@
-# SSATD
+# SSATD Dataset: Replication Package
 
 This is a replication package for the paper “What Can Self-Admitted Technical Debt Tell Us About Security? A Mixed-Methods Study” by Díaz Ferreyra, Nicolás E., Shahin, Mojtaba, Zahedi, Mansorreh, and Scandariato, Ricardo. In the 21th International Conference on Mining Software Repositories (MSR '24) 2024
 
