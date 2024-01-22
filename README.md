@@ -5,4 +5,4 @@ This is a replication package for the paper “What Can Self-Admitted Technical 
 ## Structure
 
 - Folder "SSATD" contains the dataset curated for Study 1 (Repositories Study), and the correspondig Python script to generate SSATD candidates.
-- Folder "SURVEY" contains the surveys, informed consent forms, and the anonymized results of Study 2 (Survey Study).
+- Folder "SURVEY" contains the surveys, informed consent forms, codebook, and the anonymized results of Study 2 (Survey Study).
